@@ -1,4 +1,4 @@
-https://nav.ops-coffee.cn/
-https://nav.ops-coffee.cn/tools.html
-https://nav.ops-coffee.cn/common.html
-https://nav.ops-coffee.cn/develop.html
+https://nav.mapsic.cn/
+https://nav.mapsic.cn/tools.html
+https://nav.mapsic.cn/common.html
+https://nav.mapsic.cn/develop.html
